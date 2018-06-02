@@ -10,4 +10,3 @@ Developers need autonomy and optionality, thus those guidelines are not set of r
 ## Guider
 
 - [New repo in GitHub](HOW-new-repo.md)
-- [How to write good commit-messages](HOW-commit-messages.md)
