@@ -17,9 +17,9 @@ In most cases, you learn about new frameworks and you craft a repo as an example
 We have [standard .gitignore](.gitignore) which you can copy and use.  
 
 ## Clean Code  
-The best documentation is the codebase itself! :)  
-Code itself is our common language.  
-Therefore, write clean code, make sure it contains easy to understand comments, and also have easy to browse commit messages.  
+The best documentation is the codebase itself, for it's our shared language! :)  
+Therefore, write clean code, make sure it contains easy to understand comments, and also have easy to browse commit messages. Nicely written working code can beat all world of documentation!  
+
 See few links, good to read:  
 
 - https://github.com/erlang/otp/wiki/writing-good-commit-messages
