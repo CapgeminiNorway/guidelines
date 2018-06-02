@@ -1,9 +1,31 @@
+# Ignore all dotfiles...
 .*
+# except for
 !.gitignore
+!.editorconfig
+!.eslintrc.json
+!.eslintrc.js
+!.npmignore
 
 # Avoid ignoring Maven/Gradle wrapper jar file (.jar files are usually ignored)
 !gradle/wrapper/gradle-wrapper.jar
 !/.mvn/wrapper/maven-wrapper.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
 
 ### IntelliJ IDEA ###
 *.iws
