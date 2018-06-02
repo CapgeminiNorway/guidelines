@@ -1,0 +1,12 @@
+Name of the project  
+===================  
+
+Short description of the project.  
+
+# How LEARN & MAKE  
+Guide your colleagues and other developers on how to clone, build and run the code in local environment.   
+It's also helpful to include links to books, articles, blogs, etc.  
+
+# How to SHOW & SHARE     
+Link to a functional demo, e.g. on Heroku or other DEV-friendly platforms.   
+
