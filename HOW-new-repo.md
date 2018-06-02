@@ -1,4 +1,4 @@
-# Do you want to have repositories in GitHub/CapgeminiNorway?  
+# New repositories in GitHub/CapgeminiNorway?  
 
 Here comes a short checklist we need to follow GitHub.
 
